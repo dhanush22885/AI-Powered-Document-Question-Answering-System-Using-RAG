@@ -1,0 +1,26 @@
+# Create .gitignore to prevent private files from being uploaded
+@'
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Uploaded medical documents and private data
+uploaded_docs/
+*.pdf
+
+# Editor and test files
+.vscode/
+.idea/
+.pytest_cache/
+.DS_Store
+'@ | Set-Content -Encoding utf8 .gitignore
