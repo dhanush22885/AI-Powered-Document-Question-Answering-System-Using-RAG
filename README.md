@@ -4,6 +4,16 @@ An AI-powered document assistant that allows users to upload PDF documents and a
 
 The application is designed for general-purpose document question answering, including medical documents, chemistry textbooks, research papers, educational materials, technical manuals, and other text-based PDFs.
 
+
+ ![ image 1](images/image1)
+
+ 
+ ![ image 2](images/image2)
+
+ 
+ ![ image 3](images/image3)
+
+ 
 Key Features
 
 PDF Upload: Upload PDF documents through the application interface.
